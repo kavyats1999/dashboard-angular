@@ -1,0 +1,41 @@
+
+
+.tablearea{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px;
+}
+
+
+.piecard{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35px;
+}
+ .cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+
+ mat-card{
+    width: 200px;
+    height: 180px;
+    margin: 20px;
+ }
+ .sec-one{
+    text-align: center;
+    
+    align-items: center;
+ }
+
+ .sec-two{
+    text-align: center;
+    align-items: center;
+ }
+
+
+ 
+
